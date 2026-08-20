@@ -26,12 +26,21 @@ I enjoy learning new technologies, solving real-world problems through code, and
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"></div>
 
- **<h3 align="left">GitHub Stats</h3>**
+ **<h3 align="left"></h3>**
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alif-fiansyah&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alif-fiansyah&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+<picture data-importer="pacman">
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alif-fiansyah/Alif-fiansyah/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alif-fiansyah/Alif-fiansyah/pacman-output/galaga-contribution-graph.svg?game=galaga">
+
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alif-fiansyah/Alif-fiansyah/pacman-output/galaga-contribution-graph.svg?game=galaga">
+
+</picture>
+
+
+
+###
 
  **<h3 align="left">Support Me</h3>**
 
