@@ -28,11 +28,7 @@ I enjoy learning new technologies, solving real-world problems through code, and
 
  **<h3 align="left"></h3>**
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alif-fiansyah/Alif-fiansyah/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alif-fiansyah/Alif-fiansyah/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alif-fiansyah/Alif-fiansyah/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/Alif-fiansyah/Alif-fiansyah/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
