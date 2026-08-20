@@ -32,7 +32,7 @@ I enjoy learning new technologies, solving real-world problems through code, and
 
 ###
 
-<div align="center">
+//<div align="center">
   <a href="https://open.spotify.com/">
     <img src="https://spotify-readme-rose-two.vercel.app/api/run-spotify-now" alt="Spotify Realtime" />
   </a>
