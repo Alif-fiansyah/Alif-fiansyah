@@ -59,6 +59,7 @@ Loves turning ideas into interactive, user-friendly experiences and building lig
 </p>
 
 ---
-
-
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
+<p align="center">
+  <i>"Talk is cheap. Show me the code."</i><br>
+  — <b>Linus Torvalds</b>
+</p>
