@@ -26,20 +26,38 @@ Loves turning ideas into interactive, user-friendly experiences and building lig
 ---
 
 ### Skills
-
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black" height="24" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="24" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="24" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="24" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="24" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="24" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="24" alt="Go" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" height="24" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" height="24" alt="Prisma" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="24" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="24" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="24" alt="MySQL" />
+  <!-- Languages & Runtimes -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="26" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="26" alt="PHP" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="26" alt="Rust" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" height="26" alt="Bun" />
+
+  <!-- Frameworks & Auth -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="26" alt="Next JS" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="26" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="26" alt="Express JS" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="26" alt="JWT" />
+
+  <!-- Data, Messaging & Caching -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="26" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="26" alt="Redis" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="26" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="26" alt="Apache Kafka" />
+
+  <!-- Networking & Packet Analysis -->
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="26" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Socket_Programming-111111?style=for-the-badge&logo=gnubash&logoColor=white" height="26" alt="Sockets" />
+  <img src="https://img.shields.io/badge/Linux_Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="26" alt="Linux Networking" />
+  <img src="https://img.shields.io/badge/OpenSSH-231F20?style=for-the-badge&logo=ssh&logoColor=white" height="26" alt="OpenSSH" />
+
+  <!-- DevOps, Cloud & Monitoring -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="26" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="26" alt="Nginx" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="26" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="26" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="26" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="26" alt="Prometheus" />
 </p>
 
 ---
