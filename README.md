@@ -50,7 +50,6 @@ Loves turning ideas into interactive, user-friendly experiences and building lig
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alif-fiansyah&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Alif-fiansyah&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Alif's GitHub Stats" />
 </p>
 
 <p align="center">
